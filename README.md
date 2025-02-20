@@ -17,7 +17,7 @@
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/EyePwn.git
+git clone https://github.com/Hasan-Malek/EyePwn.git
 cd EyePwn
 
 # Install dependencies
