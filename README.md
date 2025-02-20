@@ -86,8 +86,8 @@ Pull requests and contributions are welcome! Feel free to open issues for bugs, 
 This project is licensed under the **MIT License**.
 
 ## 🌍 Connect with Me
-- **GitHub**: [yourgithub](https://github.com/Hasan-Malek)
-- **LinkedIn**: [yourlinkedin](https://www.linkedin.com/in/hasan-malek-125036297/)
+- **GitHub**: [https://github.com/Hasan-Malek]
+- **LinkedIn**: [https://www.linkedin.com/in/hasan-malek-125036297/]
 
 ---
 **Built for ethical hacking, penetration testing, and cybersecurity professionals! 🛡️💻**
